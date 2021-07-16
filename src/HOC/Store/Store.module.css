@@ -1,0 +1,11 @@
+.Store{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.Store main {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
